@@ -1,5 +1,7 @@
 # COMP30027 Machine Learning
 
+This repository contains assignment files for COMP30027 Machine Learning 2021 Semester 1.
+
 ## Project 1 Gaussian Naive Bayes Classifier
 - Language: Python 3.8.8
 - Build Gaussian Naive Bayes Classifier from scratch for human pose recognition
